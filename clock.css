@@ -1,0 +1,78 @@
+body{
+    background-image: url("https://echo360.com/wp-content/uploads/2018/08/iStock-916563360.jpg");
+}
+#canvas{
+  position: relative;
+  left: 600px;
+  bottom: 800px;
+}
+p{
+  color: white;
+font-family: 'Patrick Hand', cursive;
+}
+.time{
+  font-size: 100px;
+  position: relative;
+  bottom: 100px;
+  left: 50px;
+  border-color: white;
+}
+.heading{
+  font-family: 'Grandstander', cursive;
+  font-size: 22px;
+}
+
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  margin: 30px auto;
+  background: #AD133A;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  font-size: 17px;
+  color: white;
+}
+
+button:hover {
+  background: #4c2827;
+  border-bottom-color: #111;
+}
+
+h1{
+  color: #31112c;
+}
+#st{
+  display: inline-block;
+}
+#up{
+  font-size: 180px;
+  margin: 0px;
+}
+#up1{
+  font-size: 40px;
+}
+#down{
+  font-size: 50px;
+    display: inline-block;
+    margin: 0px;
+    padding-left: 10px;
+}
+#Date{
+  position: relative;
+  left: 80px;
+  bottom: 50px;
+}
+.day{
+  display: inline
+}
+.date{
+  position: relative;
+  bottom: 100px;
+}
+.month{
+  margin: 0px;
+  position: relative;
+  bottom: 100px;
+}
